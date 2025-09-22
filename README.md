@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi, I’m Briyana 
 
+I’m a full-stack software engineer passionate about building innovative solutions in beauty, marketing, and fashion tech. With experience spanning scalable backend systems and intuitive front-end design, I’m currently building [Curicle 💅](https://www.curicle.app/), a nail art mobile platform bridging the gap between inspiration and execution.
 <!--
 **brijhaywood/brijhaywood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
